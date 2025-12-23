@@ -1,0 +1,8 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/rdi-foundation/agentbeats-tutorial-tau2-evaluator@sha256:6ae482fb8ca87fc31fbf979d7c8bbef76939a435be4a0354fc78fa9801494384",
+    "agent": "ghcr.io/rdi-foundation/agentbeats-tutorial-tau2-agent@sha256:08d551cfe7225e3d9920d3c772e2221c2c356df0fe3897d75d132e6180c40886",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2025-12-23T21:13:01Z"
+}
